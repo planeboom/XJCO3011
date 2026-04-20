@@ -11,7 +11,7 @@ schema_view = get_schema_view(
         title="Starbucks Nutrition API",
         default_version='v1',
         description="Web Services Coursework 1 API Documentation",
-        contact=openapi.Contact(email="your_email@leeds.ac.uk"), # 可以换成你的邮箱
+        contact=openapi.Contact(email="sc22y3z@leeds.ac.uk"), # 可以换成你的邮箱
     ),
     public=True,
     permission_classes=(permissions.AllowAny,),
